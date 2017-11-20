@@ -1,0 +1,6 @@
+---
+
+- name: copy user_vpp_scenario_variables
+  copy:
+    src: "{{XCI_FLAVOR}}/user_vpp_scenario_variables.yml"
+
