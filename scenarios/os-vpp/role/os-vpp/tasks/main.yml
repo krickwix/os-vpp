@@ -1,4 +1,4 @@
---
+---
 
 - name: Add OS-VPP repos and inventory
   include: add-os-vpp-repos-and-inventory.yml
