@@ -88,10 +88,6 @@ haproxy_hosts:
   controller00:
     ip: 172.29.236.11
 
-etcd_hosts:
-  controller00:
-    ip: 172.29.236.11
-
 # rsyslog server
 # log_hosts:
 # log1:
