@@ -9,6 +9,7 @@
 ##############################################################################
 # these versions are based on the osa commit e319a00aaa50ac204269a0ce3da7a7a6d517ccf2 on 2017-10-31
 # https://review.openstack.org/gitweb?p=openstack/openstack-ansible.git;a=commit;h=e319a00aaa50ac204269a0ce3da7a7a6d517ccf2
+# These versions are known to work fit VPP scenario
 - name: ansible-hardening
   scm: git
   src: https://git.openstack.org/openstack/ansible-hardening
