@@ -148,8 +148,6 @@ network_hosts:
 compute_hosts:
   compute00:
     ip: 172.29.236.12
-  compute01:
-    ip: 172.29.236.13
 
 # etcd hosts
 etcd_hosts:
